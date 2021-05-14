@@ -1,0 +1,3 @@
+LDFLAGS="${LDFLAGS} -Wl,--whole-archive /usr/lib64/libcrypto.a /usr/lib64/libssl.a /usr/lib64/libz.a /usr/lib64/libgmp.a /usr/lib64/libhogweed.a /usr/lib64/libnettle.a -Wl,--no-whole-archive" CFLAGS="${CFLAGS} /usr/lib64/libcrypto.a /usr/lib64/libssl.a /usr/lib64/libz.a /usr/lib64/libgmp.a /usr/lib64/libhogweed.a /usr/lib64/libnettle.a -Wl,--no-whole-archive"
+
+

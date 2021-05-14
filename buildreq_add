@@ -1,0 +1,43 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+# gnutls-staticdev
+# gnutls-dev
+# nettle-dev
+# nettle-staticdev
+binutils-dev
+buildreq-cmake
+doxygen
+elfutils-dev
+findutils
+gcc
+gcc-dev
+gcc-libs-math
+gcc-libstdc++32
+gcc-libubsan
+gcc-locale
+glibc-dev
+glibc-staticdev
+gmp-dev
+gmp-staticdev
+libedit
+libedit-dev
+libffi-dev
+libffi-staticdev
+libgcc1
+libstdc++
+libxml2-dev
+libxml2-staticdev
+mesa-dev
+ncurses-dev
+openssl-dev
+openssl-staticdev
+python3-dev
+python3-staticdev
+xz-dev
+xz-staticdev
+yaml-cpp
+yaml-cpp-dev
+Z3-dev
+Z3-staticdev
+zlib-dev
+zlib-staticdev
